@@ -1,4 +1,4 @@
 services:
-  - name: your-application
+  - name: AylX
     env: python
     startCommand: gunicorn wsgi:app
