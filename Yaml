@@ -1,0 +1,4 @@
+services:
+  - name: your-application
+    env: python
+    startCommand: gunicorn wsgi:app
