@@ -11,7 +11,7 @@ import telebot
 from gradio_client import Client
 
 # Substitua pelo token do seu bot
-API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+API_TOKEN = '6911510369:AAHzz8jiLZIPElv_cA241cE7CbGj1pUsuUc'
 
 # Inicializa o bot do Telegram
 bot = telebot.TeleBot(API_TOKEN)
