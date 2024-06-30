@@ -2,3 +2,5 @@ gunicorn
 pyTelegramBotAPI
 gradio_client
 flask
+requests
+colorama
