@@ -13,7 +13,7 @@ referralsCount = 0
 init_total_coin = 0
 refresh_time = 60 * 60  # Refresh every hour
 percentage_use_for_upgrade = 90
-percentage_use_for_boost = 10
+percentage_use_for_boost = 30
 
 priority = ["Specials", "PR&Team", "Markets", "Legal"]
 # Example of priority upgrade option
