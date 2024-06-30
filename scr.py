@@ -12,8 +12,8 @@ totalCoin = 0
 referralsCount = 0
 init_total_coin = 0
 refresh_time = 60 * 60  # Refresh every hour
-percentage_use_for_upgrade = 30
-percentage_use_for_boost = 50
+percentage_use_for_upgrade = 90
+percentage_use_for_boost = 1
 
 priority = ["Specials", "PR&Team", "Markets", "Legal"]
 # Example of priority upgrade option
@@ -192,7 +192,7 @@ def main():
         daily()
     setInterval(12 * 60 * 60, daily)
     setInterval(refresh_time, update_init_total_coin)
-    setInterval(60, clicker)
+    setInterval(80, clicker)
 
 
 main()
