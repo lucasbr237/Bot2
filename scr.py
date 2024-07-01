@@ -15,7 +15,7 @@ refresh_time = 60 * 60  # Refresh every hour
 percentage_use_for_upgrade = 90
 percentage_use_for_boost = 1
 
-priority = ["None", "PR&Team", "Markets", "Legal"]
+priority = ["None", "None", "Markets", "Legal"]
 # Example of priority upgrade option
 # priority = [] # for all upgrade section
 # priority = None  # for no upgrade
