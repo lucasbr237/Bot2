@@ -12,8 +12,8 @@ totalCoin = 0
 referralsCount = 0
 init_total_coin = 0
 refresh_time = 2 * 3600 + 50 * 60  
-percentage_use_for_upgrade = 90
-percentage_use_for_boost = 1
+percentage_use_for_upgrade = 0
+percentage_use_for_boost = 0
 
 priority = ["Markets"]
 # Example of priority upgrade option
