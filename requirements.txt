@@ -1,4 +1,4 @@
 pyTelegramBotAPI
 gradio_client
 requests
-colorama
+huggingface-hub
